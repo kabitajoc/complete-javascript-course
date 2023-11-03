@@ -1,5 +1,5 @@
-let country = "Nepal";
-let continent = "Asia";
+const country = "Nepal";
+const continent = "Asia";
 let population = 37;
 console.log(country);
 console.log(continent);
@@ -11,3 +11,4 @@ console.log(typeof isIsland);
 console.log(typeof population);
 console.log(typeof language);
 console.log(typeof country);
+language = "Nepali";
